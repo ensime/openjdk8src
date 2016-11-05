@@ -1,0 +1,13 @@
+# openjdk8src
+
+Hosts the openjdk8 src.zip because it is not distributed with the Windows JDK http://stackoverflow.com/questions/22732226
+
+This version is extracted from the ArchLinux distribution
+
+```
+openjdk version "1.8.0_112"
+OpenJDK Runtime Environment (build 1.8.0_112-b15)
+OpenJDK 64-Bit Server VM (build 25.112-b15, mixed mode)
+```
+
+see LICENSE for your legal rights and obligations for distribution.
